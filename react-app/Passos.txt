@@ -1,0 +1,19 @@
+[Base]
+
+-Adicionar título no firestore usando o usando o console.
+
+-Fetch o título que adicionamos no firestore.
+
+-collection().add()
+
+-Query
+
+-doc.set()
+
+-doc.update()
+
+-doc.delete()
+
+-Validação
+
+->firebase deploy --only firestore: rules
